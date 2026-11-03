@@ -6,6 +6,6 @@
 
 Правила оформлення програмного коду мовою TypeScript
 
-Методи рефакторингу коду: Replace Inheritance with Delegation, Introduce Parameter Object, Encapsulate Collection
+Методи рефакторингу коду: Replace Inheritance with Delegation, Preserve Whole Object, Encapsulate Collection
 
 Програмна система простежуваності партій металевих зразків у навчальному виробничому циклі
